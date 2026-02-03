@@ -1,0 +1,20 @@
+:root {
+  /* Colors */
+  --pixel-bg: #202028;
+  --pixel-text: #ffffff;
+  --pixel-primary: #ff0055; /* Neon Pink */
+  --pixel-secondary: #00e0ff; /* Neon Cyan */
+  --pixel-accent: #ffe600; /* Yellow */
+  --pixel-dark: #121218;
+  --pixel-light: #e0e0e0;
+  
+  /* Borders */
+  --pixel-border-color: #ffffff;
+  --pixel-border-radius: 4px;
+  
+  /* Shadows */
+  --pixel-shadow: 4px 4px 0px rgba(0, 0, 0, 0.5);
+  
+  /* Fonts */
+  --font-pixel: 'Press Start 2P', cursive;
+}
